@@ -1,7 +1,8 @@
 # Specifying an R environment with a runtime.txt file
-## my copy
+#### Launching my copy
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/russ-white/r/master)
 
+#### Launching from the forked repository
 Jupyter+R: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/r/master?filepath=index.ipynb)
 
 RStudio: [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio)
